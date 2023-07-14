@@ -1,6 +1,5 @@
 import discord
 
-prefix = '.'
 TOKEN = open("token.txt","r").readline()
 
 intents = discord.Intents.all()
